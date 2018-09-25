@@ -1,5 +1,5 @@
 _repo: The-Lives-and-Opinions-of-Eminent-Philosophers_57342
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Yonge, Charles Duke
@@ -9,12 +9,17 @@ contributor:
     gutenberg_agent_id: '3581'
     url: http://www.gutenberg.org/2009/agents/3581
     wikipedia: http://en.wikipedia.org/wiki/Charles_Duke_Yonge
+covers:
+- cover_type: archival
+  image_path: 57342-h/images/cover.jpg
 creator:
   author:
     agent_name: Laërtius, Diogenes
     gutenberg_agent_id: '49326'
     url: http://www.gutenberg.org/2009/agents/49326
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57342#The-Lives-and-Opinions-of-Eminent-Philosophers
 gutenberg_issued: '2018-06-16'
 gutenberg_type: Text
 identifiers:
